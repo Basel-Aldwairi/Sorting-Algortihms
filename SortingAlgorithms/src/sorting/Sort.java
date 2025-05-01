@@ -302,7 +302,7 @@ public class Sort {
 		int[] array2 = { 1, 2, 5, 7, 1, 0, 4, 3, 43, 1, 5, 3, 2, 4, 0, 11, 23, 22, 54 };
 
 		int[] arrayRandom = randomArray(100000000, -10000, 10000); // makes a random array and then we sort it so we
-																		// can
+																	// can
 																		// test
 		// random
 		// numbers
